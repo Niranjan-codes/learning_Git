@@ -2,3 +2,7 @@ Hi
 Hello 
 
 Learing the git 
+This is the first edit 
+Wow this is awesome 
+
+heloo 
