@@ -1,10 +1,11 @@
 
 
-Welcome this is the second file 
-this is the first edit in the second file 
-hello 
-
-
 this is the second edit 
 hello
 
+print("Hello")
+print("Hi")
+def funct(): 
+	if a == b:
+		print(c)
+	else :
