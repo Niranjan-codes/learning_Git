@@ -9,3 +9,4 @@ def funct():
 	if a == b:
 		print(c)
 	else :
+		print(d)
