@@ -10,3 +10,8 @@ def funct():
 		print(c)
 	else :
 		print(d)
+
+		slfkjslfk 
+		sfjslk dfj
+		sdfjs lkdfj
+		sfklsj fdlkj
